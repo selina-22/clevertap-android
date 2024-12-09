@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clevertap demo</string>
+    <string name="title">Title</string>
+    <string name="this_is_subtitle">This is subtitle</string>
+</resources>
